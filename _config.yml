@@ -8,13 +8,13 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Benjamin Kanouse # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: ukulele_ben.jpg # add your photo
 about-author: # add description
-social-twitter: # add your Twitter handle
+social-twitter: kanobt61 # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: BenKanouse # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: benjamin-kanouse-22a7ba74 # add your Linkedin handle
+social-email: kanobt61@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # mr-brown # add your discus identifier
