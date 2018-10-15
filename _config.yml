@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Benjamin Kanouse # add your name
 author-img: ukulele_ben.jpg # add your photo
-about-author: # add description
+about-author: Ruby on Rails developer who loves test-driven development and PostgreSQL. # add description
 social-twitter: kanobt61 # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: BenKanouse # add your Github handle
