@@ -2,7 +2,7 @@
 layout: post
 title: Creating PostgreSQL locks with Docker
 date: 2018-09-20 12:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: How to create database locks on your local computer using docker.
 img: database_locks.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [PostgreSQL, docker]
