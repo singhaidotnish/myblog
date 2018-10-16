@@ -37,7 +37,7 @@ postgres=# INSERT INTO dawgs (name)
   FROM generate_series(1,10000) AS number;
 ```
 
-Boom! We now have a database with one table and a bunch of random data in that table. Here is a quick look at the first 10 rows of the data.
+Boom! We now have a database with one table and a bunch of data in that table. Here is a quick look at the first 10 rows of the data.
 
 ```
 postgres=# SELECT * FROM dawgs LIMIT 10;
@@ -83,7 +83,7 @@ Shazam! We created two transactions. The first transaction is locking one record
 ## Step 4
 ### Make sense of the PostgreSQL internal stats tables.
 
-We are able to find these locks in the different pg stats tables. The PostgreSQL internal tables can be helpful to track down lock related issues. To try this out we can keep the two `psql` instances above open and create a new `psql` that looks at the `pg_stat_acticity` table.
+We are able to find these locks in the different pg stats tables. The PostgreSQL internal tables can be helpful to track down lock related issues. To try this out we can keep the two `psql` instances above open and create a new `psql` that looks at the `pg_stat_activity` table.
 
 ```
 docker exec -it postgres-lock-test psql -U postgres
