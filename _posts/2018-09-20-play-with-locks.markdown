@@ -168,6 +168,6 @@ max     | UPDATE dawgs SET name = 'Ben bro' WHERE id = 123;
 ### Have some fun, and play around a little.
 I recommend trying to create the different types of locks listed in the [PostgreSQL documentation](https://www.postgresql.org/docs/10/static/explicit-locking.html#LOCKING-TABLES).
 ![Lock Modes]({{site.baseurl}}/assets/img/pg_conflicting_lock_modes.png)
-\* Screenshot take from PostgreSQL documentation.
+\* Screenshot taken from PostgreSQL documentation.
 
 It can also be helpful to run select statements from the different transactions to see what data each transaction recognizes as having been updated. You may also want to come up with your own query to identify troublesome locks in your database by using the pg internal tables. This wiki page <https://wiki.postgresql.org/wiki/Lock_Monitoring> is also helpful when trying to find locks, but the queries can be heavy handed so understanding the basics can help you modify them to suit your needs.

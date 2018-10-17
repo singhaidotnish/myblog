@@ -28,7 +28,7 @@ CREATE [ UNIQUE ] INDEX [ CONCURRENTLY ] [ [ IF NOT EXISTS ] name ] ON table_nam
 
 ## 2. The describe command: `\d`
 
-This command can be used to describe table, view, sequence, or index. It can also be used by itself to list **all** tables, views, and sequences. It is helpful while exploring the schema. In this example I have one table named `dawgs`, and I use the `\d` command to describe all relations in my database then I use it again to specifically describe the `dawgs` table.
+This command can be used to describe table, view, sequence, or index. It can also be used by itself to list **all** tables, views, and sequences. It is helpful while exploring the schema. In this example I have one table named `dawgs`, and I use the `\d` command to describe all relations in my database. Then I use it again to specifically describe the `dawgs` table.
 
 ```
 postgres=# \d
@@ -51,7 +51,7 @@ Indexes:
 
 ## 3. Toggle expand output command: `\x`
 
-This is an extremely helpful command. It toggles the output of from being printed as a table to being printing one record at a time. This might not sound like a big deal, but once you have enough data to wrap your terminal the data becomes almost impossible to understand without turning on the 'Expanded' toggle.
+This is an extremely helpful command. It toggles the output from being printed as a table to being printing one record at a time. This might not sound like a big deal, but once you have enough data to wrap your terminal the data becomes almost impossible to understand without turning on the 'Expanded' toggle.
 
 ```
 postgres=# \x
@@ -98,7 +98,7 @@ Time: 0.370 ms
 
 ## 5. List and connect to database commands: `\l` and `\c`
 
-These commands are helpful if you use multiple database. As a Rails developer I often have a 'development' database and a 'test' database running locally so that I can keep test and development data separated. We can use the `\l` and `\c` commands to list all databases and change our connection to a different database.
+These commands are helpful if you use multiple databases. As a Rails developer I often have a 'development' database and a 'test' database running locally so that I can keep test and development data separated. We can use the `\l` and `\c` commands to list all databases and change our connection to a different database.
 
 ```
 postgres=# \l
