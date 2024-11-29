@@ -6,7 +6,7 @@ date: 2024-11-30
 
 # Simple English Test Maker
 
-Welcome to the **Simple English Test Maker**! This section helps you create easy and fun English tests to improve vocabulary and grammar skills.
+Welcome to the **Simple English Test Maker**! This section helps you create easy and fun English tests to improve vocabulary and grammar skills. Just have fun
 
 ---
 
