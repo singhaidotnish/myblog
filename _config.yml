@@ -9,16 +9,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Veronica Santander # add your name
+author: Veronica Santander # add your name Veronica Santander
 author-img: Veronica Santander.jpg # add your photo
 about-author: I am an english teacher who wants to share some interesting material for english classes. # add description
 social-twitter: # vero_santander
-social-github: artemsheludko # add your Github handle
+social-github: Veronica Santandern # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # vero9santander@gmail.com
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: Teacher Vero # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
