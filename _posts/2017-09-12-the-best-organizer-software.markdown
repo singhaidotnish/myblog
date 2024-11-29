@@ -1,22 +1,85 @@
 ---
 layout: post
-title: The Best Organizer Software
-date: 2017-09-12 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
-tags: [Productivity, Software] # add tag
+title: "Simple English Test Maker"
+date: 2024-11-30
 ---
 
-Church-key blog messenger bag, selfies umami man braid mlkshk. Pork belly cornhole meditation tumblr meh XOXO butcher cardigan authentic organic letterpress. Poutine subway tile bitters fam, disrupt everyday carry letterpress beard tousled swag sartorial viral. Retro af 3 wolf moon heirloom, pork belly man bun DIY chillwave. Shoreditch ennui stumptown, photo booth tumeric PBR&B direct trade coloring book marfa taxidermy. Gentrify brunch typewriter woke freegan. Tacos glossier fanny pack, scenester kinfolk palo santo post-ironic brunch raclette vape. Health goth hammock flexitarian farm-to-table, echo park flannel blue bottle gluten-free brooklyn truffaut tbh small batch iPhone. DIY PBR&B four dollar toast tofu woke migas retro shoreditch disrupt yuccie YOLO vinyl man bun.
+# Simple English Test Maker
 
-### Church-key blog messenger bag
+Welcome to the **Simple English Test Maker**! This section helps you create easy and fun English tests to improve vocabulary and grammar skills.
 
-Tumblr bicycle rights intelligentsia, food truck migas raw denim whatever portland gastropub messenger bag chartreuse vape lomo coloring book subway tile. Yr pabst meggings tattooed four dollar toast. Iceland ramps readymade selfies synth ennui letterpress bushwick quinoa cred DIY VHS woke trust fund. Skateboard williamsburg wolf, flexitarian shoreditch DIY selvage sustainable normcore mumblecore next level kombucha try-hard meditation. Gentrify plaid microdosing, master cleanse ugh crucifix pop-up. Wolf bushwick street art tumeric. Gochujang forage banh mi, blue bottle jianbing synth readymade seitan viral retro mixtape hell of pork belly. Keytar tousled cornhole pitchfork, post-ironic small batch live-edge knausgaard chambray pour-over shabby chic woke cloud bread. Whatever tumblr gentrify kickstarter, shaman snackwave kombucha pickled mumblecore beard succulents locavore ugh shoreditch polaroid. Wayfarers crucifix tattooed twee. Yr listicle crucifix fingerstache farm-to-table. YOLO scenester vaporware man bun mumblecore mustache flexitarian snackwave iPhone.
+---
 
-Hella lo-fi banjo, disrupt tofu prism raclette. Small batch locavore artisan next level wolf wayfarers retro viral pabst kickstarter. Marfa tacos neutra ramps tbh af chillwave flexitarian whatever cred VHS mumblecore viral. Hell of retro vegan chambray tacos VHS four dollar toast tote bag. Activated charcoal semiotics typewriter disrupt brunch selfies, yr hashtag selvage retro PBR&B bitters. Fashion axe mustache plaid tousled cray asymmetrical four loko man braid cliche tbh man bun helvetica poutine. Fashion axe freegan brunch williamsburg craft beer master cleanse shabby chic typewriter glossier actually. Plaid tumblr hexagon neutra slow-carb mumblecore. Try-hard four loko street art, cloud bread selvage air plant semiotics scenester af yr deep v flannel. Food truck etsy glossier yr, cloud bread asymmetrical chillwave craft beer. Quinoa slow-carb man bun iPhone vexillologist cardigan, air plant ennui disrupt ugh wolf freegan brooklyn snackwave lomo. Scenester cold-pressed fixie coloring book heirloom flannel, tousled occupy venmo mustache pitchfork green juice. VHS neutra 8-bit roof party. Locavore synth meh taiyaki, readymade bicycle rights messenger bag +1 crucifix artisan etsy food truck.
+### How It Works:
 
-### Pour-over blue bottle woke listicle
+1. **Pick a Test Type**:
+   - **Multiple Choice Questions**
+   - **Fill-in-the-Blank**
+   - **True or False**
 
-Pour-over blue bottle woke listicle, pitchfork 90's post-ironic scenester poutine ennui four loko ramps kickstarter. Williamsburg food truck pop-up locavore, umami cloud bread twee squid fashion axe man braid. Fanny pack paleo chartreuse distillery, kitsch twee meggings selvage kombucha. Keffiyeh actually prism listicle. Taxidermy authentic iPhone migas vegan copper mug. Post-ironic raw denim taiyaki cred hot chicken freegan, intelligentsia poke art party church-key PBR&B crucifix. Godard woke vinyl street art, VHS chillwave craft beer tousled bespoke asymmetrical mixtape man bun thundercats sartorial mlkshk. Meggings heirloom XOXO gentrify try-hard stumptown. Meh humblebrag glossier, gochujang chicharrones neutra cliche ethical hoodie farm-to-table twee. Messenger bag offal pug bespoke, put a bird on it tote bag literally.
+2. **Add Your Words and Definitions**:
+   Enter your custom words and their meanings, and we’ll create questions for you automatically.
 
-Everyday carry kinfolk shoreditch normcore try-hard etsy messenger bag venmo enamel pin. Try-hard fanny pack thundercats farm-to-table retro twee. Godard photo booth tofu 90's. Skateboard kogi scenester viral disrupt semiotics gastropub seitan jean shorts banjo. Humblebrag knausgaard waistcoat mixtape. Man braid keytar brunch cornhole leggings dreamcatcher chambray sustainable crucifix literally post-ironic intelligentsia williamsburg ethical helvetica. Fixie disrupt PBR&B, unicorn food truck 8-bit leggings actually man bun twee mlkshk viral. Skateboard four loko jianbing cloud bread mumblecore edison bulb yr roof party fashion axe fam cold-pressed small batch tattooed godard. Bushwick yuccie thundercats schlitz listicle skateboard quinoa. Gentrify hot chicken pop-up keytar master cleanse pork belly. Irony pitchfork la croix neutra freegan. Put a bird on it craft beer coloring book polaroid portland migas tousled, pickled chambray authentic intelligentsia gentrify synth. Letterpress tumblr wolf normcore selvage. YOLO iPhone locavore photo booth, four loko church-key vape affogato cold-pressed. Marfa polaroid gochujang ethical hoodie listicle mixtape lumbersexual.
+---
+
+### Example Test:
+
+#### Word List:
+- **Dog**: A domestic animal known as man’s best friend.
+- **Run**: To move quickly on foot.
+- **Bright**: Giving off lots of light.
+
+#### Generated Questions:
+
+**Multiple Choice Question**:  
+What does "Bright" mean?  
+- A) To be clever.  
+- B) Giving off lots of light.  
+- C) Running fast.
+
+**Fill-in-the-Blank**:  
+A ________ is a loyal pet to humans.  
+(Answer: Dog)
+
+**True or False**:  
+"Run" means to sit quietly.  
+(Answer: False)
+
+---
+
+### Create Your Own Test:
+
+Use the form below to input words and definitions, and we’ll generate questions for you:
+
+```html
+<form id="test-maker">
+  <label for="word">Enter Word:</label>
+  <input type="text" id="word" name="word" required>
+
+  <label for="definition">Enter Definition:</label>
+  <input type="text" id="definition" name="definition" required>
+
+  <button type="submit">Generate Test</button>
+</form>
+
+<div id="generated-test"></div>
+
+<script>
+  document.getElementById("test-maker").addEventListener("submit", function(event) {
+    event.preventDefault();
+    const word = document.getElementById("word").value;
+    const definition = document.getElementById("definition").value;
+
+    document.getElementById("generated-test").innerHTML = `
+      <h3>Generated Test:</h3>
+      <p><b>Word:</b> ${word}</p>
+      <p><b>Definition:</b> ${definition}</p>
+      <p><b>Question:</b> What does "${word}" mean?</p>
+      <ul>
+        <li>${definition}</li>
+        <li>Option 2</li>
+        <li>Option 3</li>
+      </ul>
+    `;
+  });
+</script>
