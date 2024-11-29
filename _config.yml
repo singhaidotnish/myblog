@@ -1,27 +1,26 @@
-title: Hello, world! I'm Veronica Santander
-description: > # this means to ignore newlines until "baseurl:"
-  I am an english teacher who wants to help with fun and intresting english material
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'Veronica Santander
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+title: "Hello, world! I'm Veronica Santander"
+description: > 
+  I am an English teacher who wants to help with fun and interesting English material. 
+  This description will appear in your document head meta (for Google search results) and in your feed.xml site description.
+permalink: ":title/" # permalink format
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g., /blog/
+url: "" # the base hostname & protocol for your site, e.g., http://example.com
+site-twitter: "" # if your site has a Twitter account, enter it here
 
 # Author Settings
-author: Veronica Santander # add your name Veronica Santander
-author-img: Veronica Santander.jpg # add your photo
-about-author: I am an english teacher who wants to share some interesting material for english classes. # add description
-social-twitter: # vero_santander
-social-github: Veronica Santandern # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # vero9santander@gmail.com
+author: "Veronica Santander" # add your name
+author-img: "Veronica_Santander.jpg" # add your photo (ensure this file exists in the appropriate folder)
+about-author: "I am an English teacher who wants to share some interesting material for English classes." # add description
+social-twitter: "" # add your Twitter handle (if available)
+social-github: "VeronicaSantander" # add your GitHub handle
+social-linkedin: "" # add your LinkedIn handle (if available)
+social-email: "vero9santander@gmail.com" # add your email
 
 # Disqus
-discus-identifier: Teacher Vero # add your discus identifier
+disqus-identifier: "TeacherVero" # add your Disqus identifier (if available)
 
 # Tracker
-analytics: # Google Analytics
+analytics: "" # Google Analytics ID (if available)
 
 # Build Settings
 markdown: kramdown
