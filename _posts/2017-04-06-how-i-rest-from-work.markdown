@@ -2,6 +2,7 @@
 layout: post
 title: "Simple English Dictionary"
 date: 2024-11-30
+categories: dictionary
 ---
 
 ## Simple English Dictionary
