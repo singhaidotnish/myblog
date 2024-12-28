@@ -34,6 +34,8 @@ paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
+# greer jekyll plugin
+
 gallery:
   dir: photos               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
@@ -59,3 +61,8 @@ gallery:
     with_info:
       info:
         desc: "Gallery Description" # Info fields can be used in custom templates.
+
+
+# simple image gallery
+
+static_files = [
