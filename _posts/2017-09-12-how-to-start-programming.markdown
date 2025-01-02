@@ -3,7 +3,7 @@ layout: post
 title: What is a tensor and why should I care ?
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: tensor.jpg # Add image post (optional)
 tags: [AI, Learn] # add tag
 ---
 Over time, the definition of a tensor has varied across communities from mathematics to quantum physics. Lately, it has joined the machine learning (ML) community’s lexicon. If you search the web for the definition of a tensor, you will likely be overwhelmed by the varying explanations and heated discussions. In 1900, Gregorio Ricci Curbastro and his student Tullio Levi-Civita first published their theory of tensor calculus, which is also known as absolute differential calculus.
