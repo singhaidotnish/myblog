@@ -16,6 +16,9 @@ social-github: singhaidotnish # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: singhaidotnish[at]gmail[dot]com
 
+# Disqus
+# discus-identifier: mr-brown # add your discus identifier
+
 # Tracker
 analytics: # Google Analytics
 
@@ -62,4 +65,4 @@ gallery:
 
 # simple image gallery
 
-static_files = [
+#static_files = [
