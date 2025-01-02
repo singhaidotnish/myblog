@@ -1,6 +1,7 @@
 ---
 images:
-  - pexel_01.jpg
+  - photos/pexel_01.jpg
+  - photos/pexel_02.jpg
 ---
 <style>
     .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -16,7 +17,7 @@ images:
 <ul class="image-gallery">
 {% for image in page.images %}
   <li>
-    <a href="{{ '/photos/image' | relative_url }}" />
+    <a href="{{ image | relative_url }}" />
   </li>
 {% endfor %}
 </ul>
