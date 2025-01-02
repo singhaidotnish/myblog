@@ -8,5 +8,4 @@ fig-caption: # Add figcaption (optional)
 tags: [Shillong, Small, City]
 ---
 
-[//]: # ({% include gallery.html folder="/uploads" %})
 {% include gallery.html %}

@@ -65,4 +65,4 @@ gallery:
 
 # simple image gallery
 
-#static_files = [
+#static_files = []
