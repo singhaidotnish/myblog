@@ -17,7 +17,7 @@ images:
 <ul class="image-gallery">
 {% for image in page.images %}
   <li>
-    <a href="{{ image | relative_url }}" />
+    <a href="{{ image | relative_url }}"><img src="{{site.baseurl}}/photos/{{ image }}" alt="{{site.author}}"></a>
   </li>
 {% endfor %}
 </ul>
