@@ -3,7 +3,7 @@ layout: post
 title: Ruby on Rails vs Jekyll ?
 date: 2017-09-12 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: tensor.jpg # Add image post (optional)
+img: # Add image post (optional)
 tags: [AI, Learn] # add tag
 ---
 The primary similarity between Ruby on Rails and Jekyll is that they are both built using the Ruby programming language, 
