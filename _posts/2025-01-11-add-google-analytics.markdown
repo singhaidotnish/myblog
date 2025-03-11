@@ -38,10 +38,10 @@ Paste this Google Analytics script inside _includes/google-analytics.html:
 
 
 Include this file in _layouts/default.html before the closing </body> tag:
-html
-Copy
-Edit
+{% highlight ruby %}
 {% include google-analytics.html %}
+{% endhighlight %}
+
 📌 Why this works?
 
 Avoids inline script blocking (since gtag.js is external).
@@ -50,13 +50,12 @@ SEO-friendly (tracks user activity).
 ✅ Step 3: Commit and Push Your Changes
 Run these commands:
 
-sh
-Copy
-Edit
+{% highlight ruby %}
 git add _includes/google-analytics.html
 git add _layouts/default.html
 git commit -m "Added Google Analytics for SEO tracking"
 git push origin main
+{% endhighlight %}
 ✅ Step 4: Verify That Google Analytics Works
 Open Google Analytics → Admin
 Click Realtime → Overview
