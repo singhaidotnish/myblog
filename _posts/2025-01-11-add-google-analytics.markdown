@@ -39,7 +39,9 @@ Paste this Google Analytics script inside _includes/google-analytics.html:
 
 Include this file in _layouts/default.html before the closing </body> tag:
 {% highlight ruby %}
+{% raw %}
 {% include google-analytics.html %}
+{% endraw %}
 {% endhighlight %}
 
 📌 Why this works?
@@ -137,9 +139,9 @@ Edit
 2️⃣ Include It in Your Layout
 Find your main layout file (usually _layouts/default.html) and before </head>, add:
 
-{% highlight ruby %}
+{% raw %}
 {% include google-analytics.html %}
-{% endhighlight %}
+{% endraw %}
 ✅ Step 3: Deploy & Verify
 Commit & Push your changes.
 Wait for GitHub Pages to update.
