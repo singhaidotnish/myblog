@@ -115,14 +115,15 @@ on:
 This makes GitHub Actions useful for CI/CD pipelines, backups, and automation.
 
 >🚀 Summary
-    Concept / Pattern	How It Applies to GitHub Actions
-    Observer Pattern	Listens for push, pull_request, schedule events
-    Declarative Configuration	YAML defines workflows, avoiding imperative scripts
-    State Machine / Workflow	Steps/jobs depend on previous states (if: success())
-    Chain of Responsibility	Jobs depend on others (needs: build)
-    Strategy Pattern	Runs tests on multiple configurations (matrix builds)
-    Microservices Architecture	Jobs run independently in containers/VMs
-    Event-Driven Architecture	Triggers based on GitHub events
+    | Concept / Pattern            | How It Applies to GitHub Actions                          |
+    |-----------------------------|--------------------------------------------------------|
+    | **Observer Pattern**         | Listens for `push`, `pull_request`, `schedule` events |
+    | **Declarative Configuration** | YAML defines workflows, avoiding imperative scripts  |
+    | **State Machine / Workflow**  | Steps/jobs depend on previous states (`if: success()`) |
+    | **Chain of Responsibility**   | Jobs depend on others (`needs: build`)               |
+    | **Strategy Pattern**          | Runs tests on multiple configurations (matrix builds) |
+    | **Microservices Architecture** | Jobs run independently in containers/VMs           |
+    | **Event-Driven Architecture**  | Triggers based on GitHub events                     |
 
 >🌍 Languages Used
     YAML → Defines workflow configuration.
