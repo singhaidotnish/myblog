@@ -137,10 +137,9 @@ Edit
 2️⃣ Include It in Your Layout
 Find your main layout file (usually _layouts/default.html) and before </head>, add:
 
-html
-Copy
-Edit
+{% highlight ruby %}
 {% include google-analytics.html %}
+{% endhighlight %}
 ✅ Step 3: Deploy & Verify
 Commit & Push your changes.
 Wait for GitHub Pages to update.
