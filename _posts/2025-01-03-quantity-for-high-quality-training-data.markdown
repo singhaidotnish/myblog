@@ -12,6 +12,7 @@ The quantity of images needed for high-quality training data depends on several 
 Complexity of the Task – Simple tasks (e.g., digit recognition) need fewer images, while complex tasks (e.g., object detection in autonomous driving) require more.
 Variability in the Data – More variation (e.g., lighting, angles, backgrounds) requires a larger dataset.
 Model Type – Deep learning models (e.g., CNNs, Transformers) require significantly more data than traditional ML models.
+
 🔹 General Guidelines Based on Task
 Task	Minimum Images per Class	High-Quality Dataset
 Classification (Simple)	1,000 - 5,000	10,000+
