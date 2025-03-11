@@ -97,3 +97,55 @@ Let me know if you need help! 🚀😊
 
 
 
+To use Google Analytics on a GitHub Pages Jekyll site, follow these steps:
+
+✅ Step 1: Get Your Google Analytics Tracking ID
+Go to Google Analytics.
+Set up a new property if you haven't already.
+Get your Measurement ID (for GA4) or Tracking ID (for Universal Analytics, now deprecated).
+✅ Step 2: Add Google Analytics to Your Jekyll Site
+Option 1: Using _config.yml (for Default Jekyll Themes)
+If you're using a default Jekyll theme like minima, simply add your tracking ID in _config.yml:
+
+yaml
+Copy
+Edit
+google_analytics: G-XXXXXXXXXX  # Replace with your Google Analytics Measurement ID
+Jekyll will automatically include the Google Analytics script.
+
+Option 2: Manually Adding Google Analytics Script
+If your theme doesn’t support google_analytics, you need to manually add the tracking script.
+
+1️⃣ Create _includes/google-analytics.html
+Inside your Jekyll project, create _includes/google-analytics.html and add:
+
+html
+Copy
+Edit
+{% if jekyll.environment == "production" %}
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+{% endif %}
+🔹 Replace G-XXXXXXXXXX with your Google Analytics Measurement ID.
+
+2️⃣ Include It in Your Layout
+Find your main layout file (usually _layouts/default.html) and before </head>, add:
+
+html
+Copy
+Edit
+{% include google-analytics.html %}
+✅ Step 3: Deploy & Verify
+Commit & Push your changes.
+Wait for GitHub Pages to update.
+Verify tracking in Google Analytics (Real-Time Reports).
+🎯 Troubleshooting
+Make sure GitHub Pages is running in production mode (check jekyll.environment).
+Use GA4 (Google Analytics 4) as Universal Analytics is deprecated.
+If not working, check the browser console for errors.
